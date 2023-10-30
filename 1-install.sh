@@ -81,7 +81,7 @@ packagesPacman=(
     "dunst" 
     "starship"
     "neovim"
-    "polkit-kde-agent"
+    "polkit-gnome-agent"
     "mpv" 
     "freerdp" 
     "xfce4-power-manager" 
