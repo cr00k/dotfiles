@@ -117,11 +117,11 @@ packagesYay=(
     "bibata-cursor-theme" 
     "trizen"
     "sddm-sugar-dark"
-#    "linux-headers"
-#    "nvidia-dkms"
-#    "nvidia-settings"
-#    "libva"
-#    "libva-nvidia-driver-git"
+    "linux-headers"
+    "nvidia-dkms"
+    "nvidia-settings"
+    "libva"
+    "libva-nvidia-driver-git"
 );
 
 
